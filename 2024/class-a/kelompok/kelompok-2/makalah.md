@@ -23,3 +23,15 @@ sasjahsjahdjs
 **1. Posisi Teknologi Sebagai Mitos**
 
 Materi tya
+
+**2. Teknologi dalam Sudut Pandang Hiperrealitas**
+
+Materi wulan
+
+**3. Contoh Kasus Berdasarkan Pengalaman Pribadi**
+
+semwa
+
+**4. Perbedaan antara Teknologi sebagai Mitos dan Teknologi sebagai Alat**
+
+materi azzah
