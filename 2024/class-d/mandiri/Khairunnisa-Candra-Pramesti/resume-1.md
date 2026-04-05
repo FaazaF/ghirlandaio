@@ -1,6 +1,6 @@
 # Resume Materi Hubungan Sains dan Agama
 
-Menjawab pertanyaan dari kelompok 1 yaitu "Apa Pandangan Ekstrem Kedua Tentang Hubungan Sains dan Agama?"
+##Menjawab pertanyaan dari kelompok 1 yaitu "Apa Pandangan Ekstrem Kedua Tentang Hubungan Sains dan Agama?"
 ---
 
 
@@ -20,6 +20,6 @@ Sebenarnya sains dan agama memiliki hubungan terikat satu sama lain. Sains menje
 
 ---
 ## Referensi
- Harari, Y. N. (2018). *Homo Deus: Masa Depan Umat Manusia* (Y. Musthofa. Trans.). PT. Pustaka Alvabet.
- Kelompok 1 4D. (2026). *Presentasi Umum: Hubungan sains dan Agama* [Presentasi Powerpoint].
- Putri, A. N. & Hrp, S. A. (2024). *Studi Tentang Hubungan Antara Agama dan Sains* Jurnal Literasiologi, 12(2).
+ 1. Harari, Y. N. (2018). *Homo Deus: Masa Depan Umat Manusia* (Y. Musthofa. Trans.). PT. Pustaka Alvabet.
+ 2. Kelompok 1 4D. (2026). *Presentasi Umum: Hubungan sains dan Agama* [Presentasi Powerpoint].
+ 3. Putri, A. N. & Hrp, S. A. (2024). *Studi Tentang Hubungan Antara Agama dan Sains* Jurnal Literasiologi, 12(2).
